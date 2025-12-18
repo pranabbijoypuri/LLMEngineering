@@ -9,3 +9,9 @@ ___
 ## OR
 ### - STEP 1.2: If you are cloning the repo, run the following command to set up
     - 1.2.1 > 'uv sync'
+
+
+## ENV file details.
+    - OPENAI_API_KEY=XXXXX
+    - MODEL_NAME=XXXXX
+    - HF_TOKEN=XXXXX    
